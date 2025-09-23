@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema do app baseado em Material 3 -->
+    <style name="Theme.Sdui" parent="Theme.Material3.DayNight">
+        <!-- Exemplo: status bar transparente -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
