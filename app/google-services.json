@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318692335311",
+    "project_id": "guiaturistico-b03ca",
+    "storage_bucket": "guiaturistico-b03ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318692335311:android:d603111aea88c6cb4ca1ba",
+        "android_client_info": {
+          "package_name": "com.example.guiaturistico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykeZfKq2Nbyr3Yo5WPwQnffuN50-FZVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

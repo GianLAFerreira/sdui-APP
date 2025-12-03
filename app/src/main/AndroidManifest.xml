@@ -10,9 +10,13 @@
         android:networkSecurityConfig="@xml/network_security_config"
         android:label="SDUI Demo"
         android:theme="@style/Theme.Sdui">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDI8sEhTXFRKIexv_H-lXRE-8fdxeDwzns" />
+
 
         <activity
-            android:name=".MainActivity"
+            android:name=".App"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
